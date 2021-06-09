@@ -1,0 +1,4 @@
+tkScrolledFrame
+Pillow
+configparser
+pywin32
