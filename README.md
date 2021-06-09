@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://github.com/w4rexx/DevMeCopy/blob/master/cover.png" width="350" height="120">
+<img src="https://github.com/w4rexx/MeCopy/blob/master/cover.png" width="350" height="120">
 </p>
 
 Transfer section             |  Delete section
 :-------------------------:|:-------------------------:
-![](https://github.com/w4rexx/DevMeCopy/blob/master/example1.png)  |  ![](https://github.com/w4rexx/DevMeCopy/blob/master/example2.png)
+![](https://github.com/w4rexx/MeCopy/blob/master/example1.png)  |  ![](https://github.com/w4rexx/MeCopy/blob/master/example2.png)
 
 
 <p align="center">
@@ -30,7 +30,12 @@ Features:
 How to use
 -----------------
 
-You can use as many extensions as you want as long as they are placed as shown in the program, between an asterisk *extension and separated by a comma *extension , *extension
+To use the transfer modules the extensions must be placed as shown in the program (*extension *extension).
+
+Each one separated by a space and without the parenthesis.
+
+For the removal modules it is as follows:
+("*extension", "*extension") also without the parentheses.
 
 Requirements and Pre-requisites:
 -----------------
