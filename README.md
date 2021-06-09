@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://github.com/w4rexx/MeCopy/blob/master/cover.png" width="350" height="120">
+<img src="https://github.com/w4rexx/MeCopy/blob/main/cover.png" width="350" height="120">
 </p>
 
 Transfer section             |  Delete section
 :-------------------------:|:-------------------------:
-![](https://github.com/w4rexx/MeCopy/blob/master/example1.png)  |  ![](https://github.com/w4rexx/MeCopy/blob/master/example2.png)
+![](https://github.com/w4rexx/MeCopy/blob/main/example1.png)  |  ![](https://github.com/w4rexx/MeCopy/blob/main/example2.png)
 
 
 <p align="center">
